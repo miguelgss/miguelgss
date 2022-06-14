@@ -1,16 +1,13 @@
-### Hi there 👋
+<h1>Welcome! 👋 I'm Miguel</h1>
+***
 
-<!--
-**miguelgss/miguelgss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Beginner developer and aspiring artist.
 
-Here are some ideas to get you started:
+- 🌱 Currently learning Godot Engine for fun
+- 💻 Working with Angular and C#.Net
+- 🤔 I’m looking for info about game development (from game design and beyond!)
+- 📫 You can talk with me on my twitter (https://twitter.com/OmaruDraw) or Discord (OmaruS.#7772).
+- 😄 Pronouns: He/Him
+- ✨ Fun fact: I'm a big fan of Digimon, cars and art in general, especially when it's about drawing or paiting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 If you want you can ask me about anything, really!
