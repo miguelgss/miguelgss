@@ -1,8 +1,7 @@
 <h1>Welcome! 👋 I'm Miguel</h1>
-***
+<h3>Beginner developer and aspiring artist.</h3>
 
-Beginner developer and aspiring artist.
-
+<hr>
 - 🌱 Currently learning Godot Engine for fun
 - 💻 Working with Angular and C#.Net
 - 🤔 I’m looking for info about game development (from game design and beyond!)
