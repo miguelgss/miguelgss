@@ -4,7 +4,7 @@
 ![miguelgss cute banner](https://github.com/miguelgss/miguelgss/blob/main/bannerGitHub.jpg)
 <hr>
 
-- 🌱 Currently learning Godot Engine for fun
+- 🌱 Currently learning WASM4 (AssemblyScript) for fun
 - 💻 Working with Angular and C#.Net
 - 🤔 I’m looking for info about game development (from game design and beyond!)
 - 📫 You can talk with me on my twitter (https://twitter.com/OmaruDraw) or Discord (OmaruS.#7772).
