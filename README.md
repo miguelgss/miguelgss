@@ -13,5 +13,4 @@ I've been a developer for almost 3 years. I worked mainly with Angular, React Na
 - 😄 Pronouns: He/Him;
 - ✨ Fun fact: I'm a big fan of Digimon, Fighting Games and drawing. I also like linux, emulatio and the idea of conserving old games and it's stories.
 
-[![Miguel GitHub stats](https://github-readme-stats.vercel.app/api?username=miguelgss)](https://github.com/miguelgss/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miguelgss)](https://github.com/miguelgss/github-readme-stats)
